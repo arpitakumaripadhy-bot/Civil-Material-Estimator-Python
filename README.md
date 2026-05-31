@@ -1,4 +1,4 @@
-# CivicEstimator v2.0 🏗️📊
+# CivicEstimator 🏗️📊
 
 An automation tool built in Python to streamline material estimation and cost budgeting for civil engineering projects. 
 
