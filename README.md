@@ -16,7 +16,7 @@ This project demonstrates production-ready code organization using core concepts
 
 ## 📈 Engineering Logic & Assumptions
 - **Concrete (M20 Mix):** Uses a standard dry volume conversion factor of `1.54` to account for mix shrinkage and aggregate voids.
-- **Brickwork:** Modeled on standard nominal brick dimensions (19 cm x 9 cm x 9 cm) accounting for a 30% mortar volume gap using a 1:6 cement-sand mortar ratio.
+- **Brickwork:** Modeled on standard nominal brick dimensions (19 cm x 9 cm x 9 cm) accounting for a 30% mortar volume gap using a 1:3 cement-sand mortar ratio.
 
 ---
 *Note: Developed using Jupyter Notebook. Architecture and debugging mentored by Gemini AI.*
