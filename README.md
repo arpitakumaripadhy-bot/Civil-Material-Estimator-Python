@@ -2,7 +2,7 @@
 
 An automation tool built in Python to streamline material estimation and cost budgeting for civil engineering projects. 
 
-#👉 [Click here to view the Python code flawlessly if GitHub shows a loading error]** https://nbviewer.org/github/arpitakumaripadhy-bot/Civil-Material-Estimator-Python/blob/main/CivicEstimator.ipynb
+👉 [Click here to view the Python code flawlessly if GitHub shows a loading error] https://nbviewer.org/github/arpitakumaripadhy-bot/Civil-Material-Estimator-Python/blob/main/CivicEstimator.ipynb
 
 ## 📋 Project Overview
 As a Billing and Planning Engineer balancing site operations with a transition into Data Science, I developed this tool to eliminate manual spreadsheet calculations. This command-line application applies core structural engineering thumb rules to instantly generate a Bill of Quantities (BOQ) and cost breakdowns for concrete elements and brick walls based on dynamic user dimensions.
